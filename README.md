@@ -6,7 +6,7 @@
 		 
 # database 
 	database file is in root name as ads.sql
-	run script on your server
+	create database named as ads then import the sql file 
 	and change your mysql credintial in model/DB.php
 	
 # run project 
