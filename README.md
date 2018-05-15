@@ -14,7 +14,13 @@
  - unzip files in your htdocs file 
  - run the project like for guest http://localhost/yp_task
    for admin  http://localhost/yp_task/admin
- 
+ # design pattern 
+     - Model-View-Controller
+     - Front Controller
+     		The front controller pattern is where you have a single entrance point for your web application (e.g. index.php) that 
+		handles all of the requests
+     - Table Data Gateway pattern
+     		A gateway is simply an object that encapsulates access to some external resource. Thus a table data gateway provides CRUD                 access to a database table or perhaps joined tables
  # layers
  	# front layer
 		- display all advertisements on home page 
